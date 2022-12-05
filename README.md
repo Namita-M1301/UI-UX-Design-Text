@@ -1,2 +1,1 @@
-# UI-UX-Design-Text
-Tandemloop Technology
+I am using Figma Software for doing this design
